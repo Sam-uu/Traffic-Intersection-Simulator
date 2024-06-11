@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>route.png</file>
+        <file>5715220_e673.jpg</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+    </qresource>
+</RCC>
