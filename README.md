@@ -4,7 +4,7 @@
 
 The **Traffic Light Simulator** app is a desktop application project made with C++ and Qt Creator framework, simulating traffic signals on a road network. The app helps visualize traffic flow, test basic traffic management, and understand how signals affect the movement of vehicles.
 
-![Road Traffic Simulator image](./trafic_routier/picture1.png)
+![Road Traffic Simulator image](picture1.png)
 
 ## Technology Used
 
@@ -12,7 +12,7 @@ The **Traffic Light Simulator** was developed using the following technologies:
 
 - **C++**: The core programming language used to implement the logic of the simulator.
 - **Qt Creator**: The integrated development environment (IDE) used for building and managing the project, especially for creating the graphical user interface (GUI).
-- - **Qt Library**: A library used for creating the graphical widget.
+- **Qt Library**: A library used for creating the graphical widget.
 - **CMake**: Used for managing the build system and dependencies for the project.
 
 ## Features
@@ -22,7 +22,7 @@ The **Traffic Light Simulator** was developed using the following technologies:
 - **Vehicle Types:** Contains multiple vehicle types, including cars, trucks, and motorcycles.
 - **Real-Time Simulation:** Visualizes the simulation in real-time with a graphical interface.
 
-![Road Traffic Simulator image](./trafic_routier/picture2.png)
+![Road Traffic Simulator image](picture2.png)
 
 ## Requirements
 
@@ -49,7 +49,7 @@ Before you start using the simulator, ensure you have the following:
 
 ## Usage
 
-![Road Traffic Simulator image](./trafic_routier/picture3.png)
+![Road Traffic Simulator image](picture3.png)
 
 You can start the simukation by adding cars using the `Ajouter Voiture` button on the top left.
 The button opens a widget with which you can:
